@@ -1,6 +1,6 @@
 ---
-title: “Schedule S24”
-permalink: /schedule/
+title: "DLN S24"
+permalink: /dln/
 author_profile: false
 ---
 
