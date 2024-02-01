@@ -1,13 +1,11 @@
 ---
-title: "Welcome to My Wesbite"
-date: 2024-02-01T15:34:30-04:00
+title: "First Post: Learning Markdown"
+date: 2024-02-01T00:34:30-04:00
 categories:
   - blog
 tags:
   - learning
 ---
-
-## Learning Markdown
 
 | Tables        | Are           | Cool  |
 | ------------- | ------------- | ----- |
