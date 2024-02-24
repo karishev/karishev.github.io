@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-date: 2024-02-20T00:34:30-04:00
+date: 2024-02-24T00:34:30-04:00
 categories:
   - assignment
 tags:
@@ -126,8 +126,9 @@ Upon analyzing the data from the Harvard Art Museum, I have discovered intriguin
 #### Word Cloud Observations:
 
 1. **Ottoman**: The prominence of manuscripts and religious texts in the word cloud reflects the rich literary and religious heritage of the Ottoman Empire. It also suggests a curatorial focus on items that embody the intellectual and spiritual life of the period. It becomes prominent when adding the word "nan" to the stopwords.
-   ![image](/assets/images/ottomanwords.png){: width="300px"}
-   ![image](/assets/images/ottomanwords_nan.png){: width="300px"}
+   
+![image](/assets/images/ottomanwords.png){: width="300px"}
+![image](/assets/images/ottomanwords_nan.png){: width="300px"}
 
 2. **Islamic**: The frequent occurrence of words like 'Sura' and 'Qu'ran' underscores the significance of Islamic religious artifacts within the collection. This resonates with the historical importance of Islam as a unifying cultural and artistic influence across diverse geographies. The word cloud also has a lot of similarities with the Ottoman one - manuscript, folio, etc.
    ![image](/assets/images/islamicwords.png)
