@@ -9,6 +9,10 @@ tags:
   - API
   - python
   - data-visualization
+toc: true
+toc_label: "Assignment 1"
+toc_sticky: true
+toc_icon: "book"
 ---
 
 ### Part 1
