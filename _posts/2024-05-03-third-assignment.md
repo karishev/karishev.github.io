@@ -1,6 +1,6 @@
 ---
 title: "Assignment 3"
-date: 2024-05-04T00:34:30-04:00
+date: 2024-05-03T00:34:30-04:00
 categories:
   - assignment
 tags:
