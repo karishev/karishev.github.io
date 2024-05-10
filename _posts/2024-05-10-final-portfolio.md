@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: "book"
 ---
 
-_Below are the embedded files for the two parts of my final portfolio. They are also in the asset folder /assets/files as PDF _
+_Below are the embedded files for the two parts of my final portfolio. They are also in the asset folder /assets/files as PDF_
 
 ### Summary Slide
 
