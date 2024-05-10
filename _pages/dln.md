@@ -93,8 +93,6 @@ This spatial data project offered valuable insights into Kazakhstan's industrial
 
 The intersection of digital literacy and artificial intelligence has become increasingly evident in my daily academic and personal activities.
 
-#### Working with AI:
-
 Using ChatGPT has become integral to my workflow. From answering simple questions to debugging complex code, AI has streamlined my productivity:
 
 - **Coding Support:** Identifying errors and automating repetitive tasks has significantly improved my efficiency.
